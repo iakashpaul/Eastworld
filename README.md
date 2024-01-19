@@ -4,7 +4,7 @@ Keeping Westworld alive via LLMs
 
 ## Objectives to achieve
 
-### Mesa | 📟
+### Mesa 📟
 
 > Natural Queries with multi-modal inputs
 
@@ -12,7 +12,7 @@ Keeping Westworld alive via LLMs
 
 Being able to ask a system using voice/highlighting on screen about host-data in a database. This includes a mixture of SQL query generation & RAG like QnA on the query results or information/library as well as accompanying UI/UX shenanigans.
 
-### Reveries | 🧠
+### Reveries 🧠
 
 > Backstories, planet & temporal grounding for decent host decision making capabilities 
 
